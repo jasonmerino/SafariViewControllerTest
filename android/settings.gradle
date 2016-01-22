@@ -1,0 +1,3 @@
+rootProject.name = 'SafariViewControllerTest'
+
+include ':app'
